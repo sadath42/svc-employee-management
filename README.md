@@ -1,8 +1,7 @@
 # svc-employee-management
 Employee Management Service
 
-## Prerequisite : Final Keyword , Static , Constuctor ,new Keyword , List , Map,
-        equals and hascode methods.
+## Prerequisite : Final Keyword , Static , Constuctor ,new Keyword , List , Map, equals and hascode methods.
 
 
 
