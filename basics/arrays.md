@@ -1,7 +1,7 @@
 ## Note
-   All the methods should be written in a Seprate class ArrayUtility 
-   Main program should reside in driver class
-   Ceate a branch from master and raise PR ArrayUtilTest Should pass all the test cases 
+  - All the methods should be written in a Seprate class ArrayUtility 
+  - Main program should reside in driver class
+  - Ceate a branch from master and raise PR ArrayUtilTest Should pass all the test cases 
 
 ## Reverse the array
   A method which accepts the array as the paraeter and reverse all the elements
