@@ -16,7 +16,7 @@
   ```
    Example 1:
 
-   Input: nums = [3,6,1,0,8,5,8]
+   Input: nums = [3,6,1,0,8,5,8] 
    Output: 8
 ```
 
