@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArrayUtilTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-18T13:34:18" hostname="CMM-C02YVFW0LVCG" time="0.021">
+  <properties/>
+  <testcase name="testUtil()" classname="ArrayUtilTest" time="0.021"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
