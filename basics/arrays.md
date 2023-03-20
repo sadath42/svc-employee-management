@@ -1,10 +1,10 @@
 ## Note
-  - All the methods should be written in a Seprate class ArrayUtility 
+  - All the methods should be written in a Separate class ArrayUtility 
   - Main program should reside in driver class
   - Ceate a branch from master and raise PR ArrayUtilTest Should pass all the test cases 
 
 ## Reverse the array
-  A method which accepts the array as the paraeter and reverse all the elements
+  A method which accepts the array as the parameter and reverse all the elements
   ```
   Example 1:
 
@@ -12,7 +12,7 @@
    Output: [0,1,6,3]
 ```
 ## Highest in array
-  A method which accepts the array as the paraeter and returns the higesht element
+  A method which accepts the array as the parameter and returns the highest element
   ```
    Example 1:
 
@@ -21,7 +21,7 @@
 ```
 
 
-## twice Largest Number
+## twice The Largest Number
 
 Create a class with method which finds the largest number with below criteria  
 
