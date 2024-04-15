@@ -42,8 +42,15 @@ Employee will have following attributes
   * If department is same
        * Salary is more than other employee
   * Else
-       * Multify the salary with bonus factor 
-       * retunr the employee who is having greater salary
+       * Multiply the salary with bonus factor 
+       * retun the employee who is having greater salary
+   
+### getHighestPaidEmployee, This method should will accept two employee s And returns the employee based on below criteria 
+  * If department is same
+       * Salary is more than other employee
+  * Else
+       * Multiply the salary with bonus factor 
+       * retun the employee who is having greater salary
        
        
        
@@ -56,6 +63,10 @@ Employee will have following attributes
        * Print the name and address of highest paid employee.
        * Using EmployeeUtitlity Check who is highest paid in E3 and E4
        * Print the name and address of highest paid employee.
+       * Print the employess whos first name is same
+
+       
+       
        
    ## Driver program 2
        * Create employee E1 ,E2 ,E3 ,E4
