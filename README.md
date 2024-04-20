@@ -20,7 +20,7 @@ DepartMent will have following attributes
   <li>major</li>
   <li>hod</li> 
   <li>BonusFactor</li>
-   Note : Department is idintified by id
+   Note: Department is idintified by id
             
 
 ## Employee Class
